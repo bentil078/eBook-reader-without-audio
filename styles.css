@@ -5,7 +5,14 @@
    few lines of a chapter.
    There are several bits of css to make sure that they
    properly.
-*/ 
+*/
+
+
+.night{
+    background:black;
+    color:white;
+}
+
 .chapter-thumbnail {
   margin-top: 10px;   /* add a margin to look nice */
   white-space : pre;  /* preserve the original line breaks and spacing
